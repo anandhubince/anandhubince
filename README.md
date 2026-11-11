@@ -87,13 +87,6 @@ Hands-on experience with Python, OOP, Django, SQL/MySQL, web and application dev
 
 ---
 
-## 📊 GitHub Stats
-
-![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandhubince&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhubince&layout=compact)
-
----
-
 ## 🎯 Goal
 
 To grow as a Python Full Stack Developer, build meaningful software, and keep sharpening my problem-solving skills.
