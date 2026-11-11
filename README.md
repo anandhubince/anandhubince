@@ -42,7 +42,7 @@ A responsive web app where people can post lost or found items and help get them
 
 **Built with:** `HTML` `CSS` `JavaScript` `LocalStorage`
 
-🔗 [View Repository](https://github.com/anandhubince/findit-lost-found-webapp)
+🔗 [View Repository](https://github.com/anandhubince/findit-lost-and-found)
 
 ### 🏥 Hyper-Local Public Service & Health Connector
 A web platform that helps people find verified public service and health information in their area.
@@ -54,7 +54,7 @@ A web platform that helps people find verified public service and health informa
 
 **Built with:** `Python` `Flask` `HTML` `CSS` `Bootstrap` `MySQL` `OpenStreetMap` `Google Translate API`
 
-🔗 [View Repository](https://github.com/anandhubince/REPO-NAME)
+🔗 [View Repository](https://github.com/anandhubince/hyper-local-public-service)
 
 ### 👨‍🍳 ChefAI – Recipe Generation System
 A web app that generates recipes from the ingredients a user has and their preferences.
@@ -65,6 +65,7 @@ A web app that generates recipes from the ingredients a user has and their prefe
 - Separate user and admin management
 
 **Built with:** `PHP` `JavaScript` `HTML` `CSS` `MySQL`
+
 🔗 [View Repository](https://github.com/anandhubince/chefai)
 
 ---
