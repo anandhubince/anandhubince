@@ -1,146 +1,97 @@
 # Hi, I'm Anandhu Bince 👋
 
-### Python Full Stack Developer | Software Developer
+**Python Full Stack Developer** | BCA Graduate | Kochi, Kerala
 
-I'm a BCA graduate currently developing my skills in **Python Full Stack Development** through practical training and internship experience.
+I build web applications with Python, Django and Flask, and I enjoy seeing how databases, backends and frontends fit together into useful software. I'm currently training in Python Full Stack Development at SMEC Technologies, Kaloor, and building projects to put what I learn into practice.
 
-I enjoy building web applications, working with databases, and learning how different technologies come together to create useful software.
-
----
-
-## 🚀 About Me
-
-- 💻 Currently learning **Python with Django**
-- 🐍 Focusing on **Python and Django**
-- 🔨 Building projects to strengthen my development skills
-- 🌱 Currently learning **Object-Oriented Programming (OOP) in Python**
-- 🎯 Interested in **Python Development & Full Stack Development**
-- 📚 Always learning and improving my programming fundamentals
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandhu%20Bince-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandhubince/)
+[![GitHub](https://img.shields.io/badge/GitHub-anandhubince-181717?logo=github&logoColor=white)](https://github.com/anandhubince)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- JavaScript
-- PHP
-- Java
-- C
-- C++
+**Primary**
 
-### Web Technologies
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Backend & Frameworks
-- Python
-- Django
-- Flask
-- PHP
+**Familiar with:** PHP, Java, C, C++
 
-### Database
-- MySQL
-- SQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
+**Tools:** Git, GitHub, VS Code, XAMPP
 
 ---
 
 ## 📌 Projects
 
+### 🔍 FindIt – Lost & Found Web App
+A responsive web app where people can post lost or found items and help get them back to their owners.
+
+- Post lost or found items with a photo
+- Search and filter items by category
+- View full item details
+- Mark items as returned
+- Works on phones, tablets and laptops
+- Saves data in the browser using LocalStorage
+
+**Built with:** `HTML` `CSS` `JavaScript` `LocalStorage`
+🔗 [View Repository](https://github.com/anandhubince/findit-lost-found-webapp) · 🌐 [Live Demo](https://your-demo-link)
+
 ### 🏥 Hyper-Local Public Service & Health Connector
+A web platform that helps people find verified public service and health information in their area.
 
-A web-based platform designed to help users access verified public service and health-related information.
-
-**Key Features:**
 - Public service and health information
-- Nearby service centers using maps
-- Emergency contacts
-- Government schemes and services
-- Local announcements and notifications
-- Multi-language support
-- Voice-based access
+- Nearby service centers shown on a map
+- Emergency contacts, government schemes and local announcements
+- Multi-language support and voice-based access
 
-**Technologies:**
-`Python` `Flask` `HTML` `CSS` `Bootstrap` `MySQL` `OpenStreetMap` `Google Translate API`
-
----
+**Built with:** `Python` `Flask` `HTML` `CSS` `Bootstrap` `MySQL` `OpenStreetMap` `Google Translate API`
+🔗 [View Repository](https://github.com/anandhubince/REPO-NAME)
 
 ### 👨‍🍳 ChefAI – Recipe Generation System
+A web app that generates recipes from the ingredients a user has and their preferences.
 
-A recipe-generation web application that provides customized recipes based on user preferences and available ingredients.
+- Ingredient-based recipe generation
+- Cuisine, dietary, difficulty and cooking-time filters
+- Saved recipes, nutrition information and chef tips
+- Separate user and admin management
 
-**Key Features:**
-- Recipe generation
-- Ingredient-based recipes
-- Cuisine and dietary preferences
-- Difficulty and cooking-time selection
-- Saved recipes
-- Nutrition information
-- Chef tips
-- User and admin management
-
-**Technologies:**
-`PHP` `JavaScript` `HTML` `CSS` `MySQL`
+**Built with:** `PHP` `JavaScript` `HTML` `CSS` `MySQL`
+🔗 [View Repository](https://github.com/anandhubince/REPO-NAME)
 
 ---
 
-## 📖 Learning Journey
+## 🌱 Currently Learning
 
-I'm continuously improving my programming and development skills.
-
-### Currently Learning
-- 🐍 Python
-- 🌐 Django
-- 🧱 Object-Oriented Programming (OOP)
-- 🗄️ SQL & MySQL
-- 🔧 Git & GitHub
-
-> Learning one concept at a time and building projects along the way.
+- **Django** – building full-stack projects
+- **Object-Oriented Programming** in Python
+- **SQL & MySQL** – database design and queries
+- **Git & GitHub** – version control and collaboration
 
 ---
 
 ## 💼 Training & Internship
 
-### Python Full Stack Development
-**SMEC Technologies, Kaloor, Ernakulam**
-
-Currently gaining practical experience in:
-
-- Python programming
-- Object-Oriented Programming
-- Django
-- SQL & MySQL
-- Web development
-- Application development
-- Git & GitHub
+**Python Full Stack Development** – SMEC Technologies, Kaloor, Ernakulam
+Hands-on experience with Python, OOP, Django, SQL/MySQL, web and application development, and Git/GitHub.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anandhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandhubince&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhubince&layout=compact&theme=default)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** [Anandhu Bince](https://www.linkedin.com/in/anandhubince/)
-- 🐙 **GitHub:** [anandhubince](https://github.com/anandhubince)
+![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandhubince&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhubince&layout=compact)
 
 ---
 
-## 🎯 My Goal
+## 🎯 Goal
 
-To grow as a **Python Full Stack Developer**, build meaningful software projects, and continuously improve my technical and problem-solving skills.
+To grow as a Python Full Stack Developer, build meaningful software, and keep sharpening my problem-solving skills.
 
 ⭐ Thanks for visiting my profile!
