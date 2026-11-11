@@ -65,8 +65,7 @@ A web app that generates recipes from the ingredients a user has and their prefe
 - Separate user and admin management
 
 **Built with:** `PHP` `JavaScript` `HTML` `CSS` `MySQL`
-
-🔗 [View Repository](https://github.com/anandhubince/REPO-NAME)
+🔗 [View Repository](https://github.com/anandhubince/chefai)
 
 ---
 
